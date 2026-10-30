@@ -1,47 +1,81 @@
-Subnautica: Above Celsius
+<div align="center"><img src="assets/above-celsius-banner.jpg" width="100%" alt="Subnautica: Above Celsius banner">A fan-made Subnautica modification
 
-Subnautica: Above Celsius is a fan-made modification for Subnautica. The project is currently in development, with further details being kept private until future announcements.
+"Development" (#development) · "FAQ" (#frequently-asked-questions) · "Requirements" (#modding-requirements)
 
 ---
 
-Project Information
+</div>About
 
-Detail| Status
-Project| Above Celsius
-Game| Subnautica
-Development| In Progress
-Release| Not Available
+Subnautica: Above Celsius is a fan-made modification for Subnautica. The project is currently in development, with further details being kept private until future announcements.
+
+Discover new possibilities, explore the unknown and experience something different.
+
+Further details about the project will remain undisclosed for now.
+
+Project Status
+
+Current status: In Development
+
+- Release: Not yet available
+- Release date: To be announced
+- Development updates: Coming soon
+
+---
 
 Frequently Asked Questions
 
 <details>
-<summary><strong>Is it released?</strong></summary>No. Above Celsius is currently in development. A release date has not yet been announced.
+<summary><strong>Is it released?</strong></summary>No. Above Celsius is currently in development. There is no confirmed release date yet.
 
 </details><details>
-<summary><strong>What is the mod about?</strong></summary>Details about the mod's content and storyline are currently being kept confidential. More information will be shared closer to release.
+<summary><strong>What is the mod about?</strong></summary>The details are currently being kept confidential. More information will be revealed through future announcements.
 
-</details>Modding Requirements
+</details>---
 
-The following tools are commonly used for Subnautica mod installation and development.
+Modding Requirements
 
-Tool| Description
-"BepInEx" (https://www.nexusmods.com/subnautica/mods/1108)| Mod loading framework
-"Nautilus" (https://github.com/SubnauticaModding/Nautilus)| Subnautica modding library
-"Nautilus Documentation" (https://subnauticamodding.github.io/Nautilus/)| Documentation and guides
-"Nautilus Releases" (https://github.com/SubnauticaModding/Nautilus/releases)| Latest GitHub releases
-"Nexus Mods" (https://www.nexusmods.com/subnautica)| Subnautica mod downloads
-"Vortex" (https://www.nexusmods.com/about/vortex/)| Mod manager
+The following tools are commonly used for installing and developing Subnautica modifications.
 
-Note: Requirements may change depending on the game version and the mod's dependencies.
+BepInEx
 
-Development
+The mod loading framework used by many Subnautica modifications.
 
-Development is ongoing. This repository will serve as the central location for project updates, announcements, documentation and release information.
+- "Download BepInEx" (https://www.nexusmods.com/subnautica/mods/1108)
 
-Releases
+Nautilus
 
-No releases are currently available.
+A library providing tools and functionality for Subnautica mod development.
+
+- "GitHub Repository" (https://github.com/SubnauticaModding/Nautilus)
+- "Documentation" (https://subnauticamodding.github.io/Nautilus/)
+- "Latest Releases" (https://github.com/SubnauticaModding/Nautilus/releases)
+
+Additional Resources
+
+- "Nexus Mods – Subnautica" (https://www.nexusmods.com/subnautica)
+- "Vortex Mod Manager" (https://www.nexusmods.com/about/vortex/)
+
+Installation requirements may vary depending on the game version and individual dependencies.
 
 ---
 
-<sub>Subnautica: Above Celsius | Independent fan project</sub>
+Development
+
+Above Celsius is currently being developed.
+
+This repository will serve as the central location for:
+
+- Development updates
+- Project announcements
+- Documentation
+- Release information
+
+More information will be published as development progresses.
+
+---
+
+<div align="center">Subnautica: Above Celsius
+
+Independent fan project. Not affiliated with Unknown Worlds Entertainment.
+
+</div>
