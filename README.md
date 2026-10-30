@@ -1,23 +1,47 @@
-Subnautica: Below Celsius
+Subnautica: Above Celsius
 
-Subnautica: Below Celsius is a fan-made mod bringing a mysterious new experience to the depths. Discover strange environments, uncover hidden secrets, and survive what waits below. We won't tell you what's coming. Just remember one thing: it's going to be hot.
+Subnautica: Above Celsius is a fan-made modification for Subnautica. The project is currently in development, with further details being kept private until future announcements.
 
 ---
 
-FAQ
+Project Information
+
+Detail| Status
+Project| Above Celsius
+Game| Subnautica
+Development| In Progress
+Release| Not Available
+
+Frequently Asked Questions
 
 <details>
-<summary>Is it released?</summary>No. Below Celsius is currently in development. More information will be revealed as development continues.
+<summary><strong>Is it released?</strong></summary>No. Above Celsius is currently in development. A release date has not yet been announced.
 
 </details><details>
-<summary>What is Below Celsius about?</summary>That's something you'll have to discover for yourself. We don't want to spoil the experience before you even get the chance to play it.
+<summary><strong>What is the mod about?</strong></summary>Details about the mod's content and storyline are currently being kept confidential. More information will be shared closer to release.
 
-All you need to know for now is that it's going to be hot.
+</details>Modding Requirements
 
-</details>---
+The following tools are commonly used for Subnautica mod installation and development.
+
+Tool| Description
+"BepInEx" (https://www.nexusmods.com/subnautica/mods/1108)| Mod loading framework
+"Nautilus" (https://github.com/SubnauticaModding/Nautilus)| Subnautica modding library
+"Nautilus Documentation" (https://subnauticamodding.github.io/Nautilus/)| Documentation and guides
+"Nautilus Releases" (https://github.com/SubnauticaModding/Nautilus/releases)| Latest GitHub releases
+"Nexus Mods" (https://www.nexusmods.com/subnautica)| Subnautica mod downloads
+"Vortex" (https://www.nexusmods.com/about/vortex/)| Mod manager
+
+Note: Requirements may change depending on the game version and the mod's dependencies.
 
 Development
 
-Below Celsius is currently being developed. More details, screenshots, features, and announcements will be shared as the project progresses.
+Development is ongoing. This repository will serve as the central location for project updates, announcements, documentation and release information.
 
-More to come.
+Releases
+
+No releases are currently available.
+
+---
+
+<sub>Subnautica: Above Celsius | Independent fan project</sub>
