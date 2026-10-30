@@ -1,4 +1,4 @@
-<div align="center"><img src="assets/above-celsius-banner.jpg" width="100%" alt="Subnautica: Above Celsius banner">A fan-made Subnautica modification
+<div align="center"><img src="https://github.com/mastercrief3009/Subnautica-Abov-Celsius/blob/main/Screenshot_20261030-161955~2.jpg" width="100%" alt="Subnautica: Above Celsius banner">A fan-made Subnautica modification
 
 "Development" (#development) · "FAQ" (#frequently-asked-questions) · "Requirements" (#modding-requirements)
 
