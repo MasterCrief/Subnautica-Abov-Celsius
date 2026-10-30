@@ -1,50 +1,50 @@
-<div align="center"><img src="https://github.com/mastercrief3009/Subnautica-Abov-Celsius/blob/main/Screenshot_20261030-161955~2.jpg" width="100%" alt="Subnautica: Above Celsius banner">A fan-made Subnautica modification
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mastercrief3009/Subnautica-Abov-Celsius/main/Screenshot_20261030-161955~2.jpg" width="100%" alt="Subnautica: Above Celsius banner">
+  <h1>SUBNAUTICA: ABOVE CELSIUS</h1>
+  <p><strong>A fan-made Subnautica modification</strong></p>
+</div>---
 
-"Development" (#development) · "FAQ" (#frequently-asked-questions) · "Requirements" (#modding-requirements)
+01. ABOUT THE PROJECT
 
----
+Subnautica: Above Celsius is a fan-made modification for Subnautica.
 
-</div>About
+The project is currently in development. Details about its content and storyline are being kept confidential until future announcements.
 
-Subnautica: Above Celsius is a fan-made modification for Subnautica. The project is currently in development, with further details being kept private until future announcements.
+02. PROJECT STATUS
 
-Discover new possibilities, explore the unknown and experience something different.
-
-Further details about the project will remain undisclosed for now.
-
-Project Status
-
-Current status: In Development
-
-- Release: Not yet available
-- Release date: To be announced
-- Development updates: Coming soon
+Category| Status
+Development| In Progress
+Release| Not Available
+Release Date| To Be Announced
 
 ---
 
-Frequently Asked Questions
+03. FREQUENTLY ASKED QUESTIONS
 
 <details>
-<summary><strong>Is it released?</strong></summary>No. Above Celsius is currently in development. There is no confirmed release date yet.
+<summary><strong>Is the mod released?</strong></summary>No. Above Celsius is currently in development. A release date has not yet been announced.
 
 </details><details>
-<summary><strong>What is the mod about?</strong></summary>The details are currently being kept confidential. More information will be revealed through future announcements.
+<summary><strong>What is the mod about?</strong></summary>Details about the mod's content and storyline are currently confidential. More information will be shared through future announcements.
+
+</details><details>
+<summary><strong>Where will it be available?</strong></summary>Further information about distribution and installation will be announced closer to release.
 
 </details>---
 
-Modding Requirements
+04. MODDING REQUIREMENTS
 
-The following tools are commonly used for installing and developing Subnautica modifications.
+The following tools are commonly used for Subnautica mod installation and development. Additional dependencies may be required.
 
 BepInEx
 
-The mod loading framework used by many Subnautica modifications.
+A mod loading framework used by many Subnautica modifications.
 
-- "Download BepInEx" (https://www.nexusmods.com/subnautica/mods/1108)
+"Download BepInEx" (https://www.nexusmods.com/subnautica/mods/1108)
 
 Nautilus
 
-A library providing tools and functionality for Subnautica mod development.
+A library that provides tools and features for Subnautica mod development.
 
 - "GitHub Repository" (https://github.com/SubnauticaModding/Nautilus)
 - "Documentation" (https://subnauticamodding.github.io/Nautilus/)
@@ -52,16 +52,12 @@ A library providing tools and functionality for Subnautica mod development.
 
 Additional Resources
 
-- "Nexus Mods – Subnautica" (https://www.nexusmods.com/subnautica)
+- "Nexus Mods" (https://www.nexusmods.com/subnautica)
 - "Vortex Mod Manager" (https://www.nexusmods.com/about/vortex/)
-
-Installation requirements may vary depending on the game version and individual dependencies.
 
 ---
 
-Development
-
-Above Celsius is currently being developed.
+05. DEVELOPMENT
 
 This repository will serve as the central location for:
 
@@ -70,12 +66,9 @@ This repository will serve as the central location for:
 - Documentation
 - Release information
 
-More information will be published as development progresses.
-
 ---
 
-<div align="center">Subnautica: Above Celsius
-
-Independent fan project. Not affiliated with Unknown Worlds Entertainment.
-
+<div align="center">
+  <strong>Subnautica: Above Celsius</strong>
+  <p><em>Independent fan project. Not affiliated with Unknown Worlds Entertainment.</em></p>
 </div>
